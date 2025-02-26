@@ -1,0 +1,29 @@
+---
+title: چطوری کاربر جدید بسازیم
+
+authorFirstName: Abhishek
+
+authorLastName: More
+
+authorTitle: Software Engineer
+
+tags: Highlight Engineering
+image: https://raw.githubusercontent.com/mahd1ar/nphint/refs/heads/master/images/istockphoto-1370945549-1024x1024.jpg
+
+metaTitle: Using Github as a Headless CMS
+---
+
+# ساخت کاربر جدید
+
+1. برای ساختن کاربر از منوی سمت چپ گزینه ی کاربر را انتخاب کنید
+
+2. ابتدا روی دکمه ی create user کلیک کنید
+
+3. سپس نام و نام خانوادگی کاربر، ایمیل، و شماره دانش آموختگی ایشان را وارد کنید و دکمه ی create user را فشار دهید
+
+### نکته
+در صورتی که برای کاربر پسورد انتخاب نشود به صورت خودکار برای کاربر پسورد **Aa123456** انتخاب میشود
+
+## پنل پیام رسانی
+
+درصورتی که برای کاربر شماره موبایل انتخاب شده باشد از طریق پنل پیام رسانی میاتوانید پیام یا ایمیل ریست پسور انتخاب کنید 
